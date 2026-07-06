@@ -1,3 +1,7 @@
+use colored::Colorize;
+
 fn main() {
-    println!("Hello, world!");
+    const ANSWER: &str = "kirk";
+
+    println!("{}", ANSWER.red());
 }
