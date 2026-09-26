@@ -1,2 +1,0 @@
-# rustle
-wordle in rust.
